@@ -1,0 +1,21 @@
+17:43:25,441 DEBUG devpinoyLogger<strong>{1}</strong>:69 - config file loaded !!!
+17:43:25,459 DEBUG devpinoyLogger<strong>{1}</strong>:82 - OR file loaded
+17:44:00,741 DEBUG devpinoyLogger<strong>{1}</strong>:121 - Navigated to : http://www.zoho.com/
+17:44:09,177 DEBUG devpinoyLogger<strong>{1}</strong>:148 - Clicking on element :loginlink_CSS
+17:44:11,519 DEBUG devpinoyLogger<strong>{1}</strong>:163 - Typing in an Element :email_CSSEntered value as: smuralikrishna006@gmail.com
+17:44:12,006 DEBUG devpinoyLogger<strong>{1}</strong>:163 - Typing in an Element :password_CSSEntered value as: Murali@123
+17:44:12,339 DEBUG devpinoyLogger<strong>{1}</strong>:148 - Clicking on element :signbtn_CSS
+17:44:24,722 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:44:24,726 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:44:24,730 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:44:24,733 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:44:24,734 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/su/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:44:48,277 DEBUG devpinoyLogger<strong>{1}</strong>:148 - Clicking on element :crmlink_CSS
+17:44:49,231 DEBUG devpinoyLogger<strong>{1}</strong>:148 - Clicking on element :accountstab_XPATH
+17:44:52,098 DEBUG devpinoyLogger<strong>{1}</strong>:148 - Clicking on element :createaccountbtn_CSS
+17:44:53,923 DEBUG devpinoyLogger<strong>{1}</strong>:163 - Typing in an Element :accountname_CSSEntered value as: Raman
+17:44:54,400 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:44:54,401 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:44:54,402 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:44:54,403 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:44:54,404 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/su/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
